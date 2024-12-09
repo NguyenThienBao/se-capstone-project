@@ -52,4 +52,4 @@ After that, the teeam can brainstorm to define advanced requirements such as con
         * API Hookup Design
         * Dataasae Schema Design
 
-Using template from [https://jdbv.sourceforge.net/RUP.html](https://jdbv.sourceforge.net/RUP.html)
+Using template from [https://sceweb.sce.uhcl.edu/helm/RUP_Folder/RationalUnifiedProcess/process/templates.htm](https://sceweb.sce.uhcl.edu/helm/RUP_Folder/RationalUnifiedProcess/process/templates.htm)
